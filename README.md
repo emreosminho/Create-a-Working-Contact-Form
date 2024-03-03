@@ -1,6 +1,6 @@
 # Create A Working Contact Form
 
-Bu proje, HTML, CSS, JavaScript ve PHP kullanılarak oluşturulmuş bir iletişim formunu içerir. İletişim formu, kullanıcıların web sitesi sahibiyle iletişim kurmalarını sağlayan bir öğedir. Bu form, kullanıcıların ad, e-posta adresi, konu, mesaj vb. gibi bazı alanları doldurabilecekleri bir yapıya sahiptir. Gönderilen iletişim formu verileri, PHP tarafından işlenir ve belirtilen e-posta adresine iletilir. Bu projeyi kullanarak web sitenize bir iletişim formu ekleyebilir ve ziyaretçilerinizle etkili bir şekilde iletişim kurabilirsiniz
+Bu proje, HTML, CSS, JavaScript ve PHP kullanılarak oluşturulmuş bir iletişim formunu içerir. İletişim formu, kullanıcıların web sitesi sahibiyle iletişim kurmalarını sağlayan bir öğedir. Bu form, kullanıcıların ad, e-posta adresi, konu, mesaj vb. gibi bazı alanları doldurabilecekleri bir yapıya sahiptir. Gönderilen iletişim formu verileri, PHP tarafından işlenir ve belirtilen e-posta adresine iletilir. Bu projeyi kullanarak web sitenize bir iletişim formu ekleyebilir ve ziyaretçilerinizle etkili bir şekilde iletişim kurabilirsiniz.
 
 
 ## Uygulama Görselleri
